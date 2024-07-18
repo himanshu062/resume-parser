@@ -56,16 +56,7 @@ A Python application that parses a resume and extracts structured information in
     python -m unittest discover tests
     ```
 
-## Project Structure
 
-resume-parser/
-│
-├── app.py # Main application file
-├── requirements.txt # Project dependencies
-├── test_requirements.txt# Test dependencies
-├── tests/
-│ └── test_parser.py # Unit tests for the parser
-└── README.md # Project documentation
 
 ## Contributing
 
